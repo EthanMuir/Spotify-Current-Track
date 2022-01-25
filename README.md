@@ -8,8 +8,11 @@ This is a simple program that leverages the Spotify API to access and display wh
 4. Play a song on your Spotify account from any device
 5. Run the program
 
-# Limitation
-This program will only work if a song is currently playing when it runs.
-
+# Limitations
+<ul>
+  <li>This program will only work if a song is currently playing when it runs.
+  <li>Python requests package must be downloaded on your computer.
+</ul>
+  
 # Future Use
 In the future, I will attempt to use this program to access a song's album cover picture and display this picture onto a small lcd screen to mount on a wall.
